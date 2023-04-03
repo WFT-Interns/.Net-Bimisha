@@ -1,0 +1,11 @@
+C:\Users\bimuu\source\repos\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.AssemblyReference.cache
+C:\Users\bimuu\source\repos\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.SuggestedBindingRedirects.cache
+C:\Users\bimuu\source\repos\DiceRoller\DiceRoller\obj\Debug\DiceRoller.FormDiceRoller.resources
+C:\Users\bimuu\source\repos\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.GenerateResource.cache
+C:\Users\bimuu\source\repos\DiceRoller\DiceRoller\obj\Debug\DiceRoller.Properties.Resources.resources
+C:\Users\bimuu\source\repos\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\bimuu\source\repos\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+C:\Users\bimuu\source\repos\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe
+C:\Users\bimuu\source\repos\DiceRoller\DiceRoller\bin\Debug\DiceRoller.pdb
+C:\Users\bimuu\source\repos\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+C:\Users\bimuu\source\repos\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb
